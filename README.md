@@ -1,5 +1,9 @@
 # Automatic Breast Cancer Classification 
 
+Paper: [pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20paper%20FMLDS2024.pdf)
+
+Slides:[pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20Slides%20FMLDS2024.pdf)
+
 This study leverages the pre-trained ResNet50 and VGG19 models for detecting breast cancer in histopathological images from the BreakHis dataset. 
 
 **A.	BreakHist Dataset**
@@ -31,3 +35,7 @@ First, unlike previous research that often separated images by magnification for
 Second, the study introduces the z-score normalization procedure for histopathological images, which has not been mentioned in previous literature on BC classification. This technique enhances consistency and reliability across different datasets. 
 
 Finally, the impact of dataset balance on classification performance is examined by comparing models trained on balanced versus unbalanced datasets, with data augmentation applied to assess its influence on accuracy and generalizability. These findings not only address current gaps in the literature but also provide actionable insights that can inform the development of more effective diagnostic tools for breast cancer.
+
+**F. Publication**
+
+[2024 IEEE International Conference on Future Machine Learning and Data Science](https://www.fmlds.org/AcceptedPapers.php)
