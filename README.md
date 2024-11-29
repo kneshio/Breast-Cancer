@@ -2,7 +2,7 @@
 
 Paper: [pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20paper%20FMLDS2024.pdf)
 
-Slides:[pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20Slides%20FMLDS2024.pdf)
+Slides: [pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20Slides%20FMLDS2024.pdf)
 
 This study leverages the pre-trained ResNet50 and VGG19 models for detecting breast cancer in histopathological images from the BreakHis dataset. 
 
