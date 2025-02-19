@@ -1,6 +1,6 @@
 # Automatic Breast Cancer Classification 
 
-Paper: [pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20paper%20FMLDS2024.pdf)
+Paper: [pdf](https://ieeexplore.ieee.org/document/10874103)
 
 Slides: [pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20Slides%20FMLDS2024.pdf)
 
